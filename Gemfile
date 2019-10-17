@@ -41,6 +41,7 @@ gem 'jbuilder', '~> 2.5'
 
 #added by Joshua
 gem 'webpacker'
+gem 'rubyzip', '~> 1.3.0'
 
 group :development, :test do
   gem 'sqlite3'
